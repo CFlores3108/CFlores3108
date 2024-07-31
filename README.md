@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently developing Android apps for my own knowledge.<br>🌱 I’m currently learning new frameworks in Full Stack.<br>👯 I’m looking to collaborate on projects in the same area as a developer.<br>💬 Ask me about databases, how to extract data and loading it.<br>📫 How to reach me: El Salvador📌<br>⚡ Fun fact: Technology lover, Expert in physical training and overall wellness, Football lover.
+🔭 I’m currently developing Android apps for my own knowledge.<br>🌱 I’m currently learning new frameworks in Full Stack.<br>👯 I’m looking to collaborate on projects in the same area as a developer.<br>💬 Ask me about databases, how to extract data and load it.<br>📫 How to reach me: El Salvador📌<br>⚡ Fun fact: Technology lover, Expert in physical training and overall wellness, Football lover.
 
 
 ## 🌐 Socials:
